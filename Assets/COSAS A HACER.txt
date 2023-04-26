@@ -1,0 +1,13 @@
+Generar patrones para cada enemigo.
+Generar waves, o patrones de los enemigos creados.
+
+Crear mas armas y que se pueda cambiar para el player.
+
+Crear power ups, definir.
+
+HACER QUE LAS BALAS SALGAN AL COSTADO, Y NO DESDE EL CENTRO.
+
+
+Cosas para hacer despues:
+mejorar UI:
+	Cambiar el texto de vida por alguna imagen

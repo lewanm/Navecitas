@@ -1,0 +1,3 @@
+COSAS QUE QUIERO PREGUNTARLE A LUCAS:
+Como hacer para tener tipo un SELECT de html;
+//esto seria para elegir que patron ponerle a el enemigo, sacandolo de una lista de los disponibles.

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b97a7da0d8755479b8d8a4ae90e849, type: 3}
+  m_Name: Enemy_Parato
+  m_EditorClassIdentifier: 
+  VelocityX: 0
+  VelocityY: 1
+  Bullet: {fileID: 1282124658526320925, guid: 395de9b92473dbb4781e91a6caca08c0, type: 3}
+  Sprite: {fileID: -1682408965, guid: 855f52c6a156dff428b111dde8dcec91, type: 3}
+  InitialHp: 10
+  ShootCooldown: 2
+  rotationSpeed: 0
+  Pattern: 2

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87c01f6cb08a5164691385e7ef93cf7f, type: 3}
+  m_Name: Ship_Turtle
+  m_EditorClassIdentifier: 
+  Hp: 3
+  Velocity: 5
+  Bullet: {fileID: 1282124658526320925, guid: 210b05f92a0af944c9ee0ca1c6ee975c, type: 3}
+  Sprite: {fileID: 21300000, guid: e0358bc6efd7a774798845c21d05ef2a, type: 3}
+  ShootCooldown: 0.3
+  SlowedVelocity: 2

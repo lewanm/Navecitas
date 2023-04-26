@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3df36f9ab01e9d4da81d31c3ca4aebd, type: 3}
+  m_Name: Enemy_Boss_Wakilote
+  m_EditorClassIdentifier: 
+  Velocity: 0
+  Bullet: {fileID: 1282124658526320925, guid: 395de9b92473dbb4781e91a6caca08c0, type: 3}
+  Sprite: {fileID: 21300000, guid: 0ccc508108fa6ed4fa11b4a467d7f609, type: 3}
+  InitialHp: 50
+  ShootCooldown: 1
